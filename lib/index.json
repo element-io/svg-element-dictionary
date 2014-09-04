@@ -1,0 +1,482 @@
+{
+	"a": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"altGlyph": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"altGlyphDef": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"altGlyphItem": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"animate": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"animateColor": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"animateMotion": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"animateTransform": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"circle": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"clipPath": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"color-profile": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"cursor": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"defs": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"desc": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"ellipse": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"feBlend": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"feColorMatrix": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"feComponentTransfer": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"feComposite": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"feConvolveMatrix": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"feDiffuseLighting": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"feDisplacementMap": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"feDistantLight": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"feFlood": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"feFuncA": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"feFuncB": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"feFuncG": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"feFuncR": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"feGaussianBlur": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"feImage": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"feMerge": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"feMergeNode": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"feMorphology": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"feOffset": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"fePointLight": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"feSpecularLighting": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"feSpotLight": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"feTile": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"feTurbulence": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"filter": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"font": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"font-face": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"font-face-format": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"font-face-name": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"font-face-src": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"font-face-uri": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"foreignObject": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"g": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"glyph": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"glyphRef": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"hkern": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"image": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"line": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"linearGradient": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"marker": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"mask": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"metadata": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"missing-glyph": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"mpath": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"path": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"pattern": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"polygon": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"polyline": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"radialGradient": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"rect": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"script": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"set": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"stop": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"style": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"svg": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"switch": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"symbol": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"text": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"textPath": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"title": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"tref": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"tspan": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"use": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"view": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	},
+	"vkern": {
+		"desc": "",
+		"url": "",
+		"type": [],
+		"attributes": []
+	}
+}
